@@ -1,0 +1,820 @@
+* {
+    padding: 0;
+    margin: 0;
+     background-color: black;
+}
+
+
+.main {
+    position: absolute;
+    width: 1536px;
+height: 2557px;
+top: -399px;
+left: -2209px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.aziz {
+   position: fixed;
+    
+    width: 1536px;
+height: 60px;
+align-items: center;
+display: flex;
+justify-content: center;
+z-index: 99;
+}
+.mood {
+    position: fixed;
+    
+
+    height: 30px;
+    top: 15px;
+    left: 183px;
+  
+}
+.dd {
+    position: fixed;
+    width: 150px;
+    height: 28px;
+    top: 16px;
+    left: 1203px;
+ 
+    
+}
+.hchh {
+    width: 1536px;
+height: 499px;
+top: 60px;
+position: absolute;
+}
+
+.online {
+    position: absolute ;
+    width: 82px;
+height: 24px;
+top: 165px;
+left: 597px;
+}
+
+.oclock {
+    width: 90px;
+    height: 26px;
+    top: 163px;
+    left: 493px;
+  position: absolute;
+    
+}
+.gg {
+    position: absolute;
+    width: 168px;
+height: 34px;
+top: 160px;
+left: 183px;
+
+
+}
+
+.d { 
+top: 193px;
+left: 182px;
+    color: white;
+    position: absolute;
+font-size: 80px;
+font-weight: 700;
+line-height: 88px;
+letter-spacing: 0.02em;
+text-align: left;
+
+}
+
+.ddd {
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 44px;
+    letter-spacing: 0.3em;
+    text-align: left;
+    width: 461px;
+    height: 44px;
+    top: 285px;
+    left: 184px;
+  color: white;
+    
+}
+
+.dwww {
+   position: absolute;
+font-size: 24px;
+font-weight: 700;
+line-height: 26.4px;
+letter-spacing: 0.03em;
+text-align: left;
+color: white;
+}
+
+.rdd {
+    color: white;
+    position: absolute;
+    font-family: adineue PRO Cyr;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 26.4px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    width: 259px;
+height: 52px;
+top: 345px;
+left: 227px;
+
+}
+
+.zap {
+    color: white;
+    width: 24px;
+height: 24px;
+top: 359px;
+left: 183px;
+position: absolute;
+}
+
+.klin {
+    white-space: nowrap;
+    position: absolute;
+    width: 311px;
+height: 26px;
+top: 497px;
+left: 183px;
+gap: 0px;
+opacity: 0px;
+color: rgba(99, 205, 246, 1);
+font-size: 24px;
+font-weight: 700;
+line-height: 26.4px;
+letter-spacing: 0.03em;
+text-align: left;
+}
+
+.dss {
+    width: 488px;
+height: 26px;
+top: 541px;
+left: 227px;
+position: absolute;
+color: white;
+font-size: 24px;
+font-weight: 300;
+line-height: 26.4px;
+letter-spacing: 0.03em;
+text-align: left;
+white-space: nowrap;
+}
+.sad {
+    position: absolute;
+    width: 387px;
+height: 26px;
+top: 584px;
+left: 227px;
+color: white;
+font-size: 24px;
+font-weight: 300;
+line-height: 26.4px;
+letter-spacing: 0.03em;
+text-align: left;
+white-space: nowrap;
+}
+.eef {
+    position: absolute;
+    width: 612px;
+height: 26px;
+top: 625px;
+left: 227px;
+font-size: 24px;
+font-weight: 300;
+line-height: 26.4px;
+letter-spacing: 0.03em;
+text-align: left;
+color: white;
+white-space: nowrap;
+}
+.fu1 {
+position: absolute;
+width: 24px;
+height: 24px;
+top: 545px;
+left: 183px;
+}
+.fu2 {
+    position: absolute;
+    width: 24px;
+height: 24px;
+top: 586px;
+left: 183px;
+
+
+}
+.fu3 {
+   position: absolute; 
+   width: 24px;
+height: 24px;
+top: 627px;
+left: 183px;
+
+}
+
+.rs {
+    width: 159px;
+height: 2px;
+top: 777px;
+left: 213px;
+gap: 0px;
+border-radius: 2px 0px 0px 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.rs2 {
+    width: 24px;
+height: 24px;
+top: 766px;
+left: 183px;
+padding: 2px;
+position: absolute;
+
+}
+.dsa {
+    width: 429px;
+height: 44px;
+top: 805px;
+left: 183px;
+position: absolute;
+font-size: 40px;
+font-weight: 300;
+line-height: 44px;
+letter-spacing: 0.03em;
+text-align: left;
+color: white;
+white-space: nowrap;
+}
+.ddw {
+    color: white;
+    width: 153px;
+height: 44px;
+top: 849px;
+left: 183px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+font-size: 40px;
+font-weight: 700;
+line-height: 44px;
+letter-spacing: 0.03em;
+text-align: left;
+
+}
+
+.daromad1 {
+    position: absolute;
+    width: 270px;
+height: 133px;
+top: 923px;
+left: 183px;
+gap: 0px;
+opacity: 0px;
+
+}
+.daromad2 {
+    position: absolute;
+    width: 270px;
+    height: 133px;
+    top: 923px;
+    left: 483px;
+    gap: 0px;
+    opacity: 0px;
+    
+
+}
+.daromad3 {
+    position: absolute;
+    width: 270px;
+height: 133px;
+top: 923px;
+left: 783px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.prof {
+    position: absolute;
+    width: 24px;
+height: 24px;
+top: 1146px;
+left: 183px;
+padding: 2px;
+
+
+}
+
+.line {
+    position: absolute;
+    width: 159px;
+height: 2px;
+top: 1157px;
+left: 213px;
+gap: 0px;
+border-radius: 2px 0px 0px 0px;
+opacity: 0px;
+
+}
+
+.shifu {
+    width: 449px;
+height: 44px;
+top: 1185px;
+left: 183px;
+color: white;
+font-size: 40px;
+font-weight: 700;
+line-height: 44px;
+letter-spacing: 0.03em;
+text-align: center;
+position: absolute;
+}
+
+.ind {
+    position: absolute;
+    width: 608px;
+height: 44px;
+top: 1229px;
+left: 183px;
+font-size: 40px;
+font-weight: 300;
+line-height: 44px;
+letter-spacing: 0.03em;
+text-align: center;
+color: white;
+white-space: nowrap;
+}
+
+.mod1 {
+position: absolute;
+width: 382px;
+height: 2px;
+top: 1440px;
+left: 187px;
+gap: 0px;
+border-radius: 2px 0px 0px 0px;
+opacity: 0.2px;
+
+}
+.mod2 {
+position: absolute;
+width: 382px;
+height: 2px;
+top: 1440px;
+left: 577px;
+gap: 0px;
+border-radius: 2px 0px 0px 0px;
+opacity: 0.2px;
+
+}
+.mod3 {
+position: absolute;
+width: 382px;
+height: 2px;
+top: 1440px;
+left: 967px;
+gap: 0px;
+border-radius: 2px 0px 0px 0px;
+opacity: 0.2px;
+
+}
+.mord1 {
+    position: absolute;
+    width: 2px;
+height: 130px;
+top: 1307px;
+left: 572px;
+gap: 0px;
+border-radius: 2px 0px 0px 0px;
+opacity: 0.2px;
+
+}
+.mord2 {
+    position: absolute;
+    width: 2px;
+height: 130px;
+top: 1445px;
+left: 572px;
+gap: 0px;
+border-radius: 2px 0px 0px 0px;
+opacity: 0.2px;
+
+}
+.mord3 {
+    width: 2px;
+    height: 130px;
+    top: 1307px;
+    left: 962px;
+    gap: 0px;
+    border-radius: 2px 0px 0px 0px;
+    opacity: 0.2px;
+    position: absolute;
+
+}
+.mord4 {
+    position: absolute;
+    width: 2px;
+height: 130px;
+top: 1445px;
+left: 962px;
+gap: 0px;
+border-radius: 2px 0px 0px 0px;
+opacity: 0.2px;
+
+}
+
+.circle1 {
+position: absolute;
+width: 24px;
+height: 24px;
+top: 1350px;
+left: 213px;
+padding: 2px;
+gap: 0px;
+opacity: 0px;
+
+}
+.circle2 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 1487px;
+    left: 213px;
+    padding: 2px;
+    gap: 0px;
+    opacity: 0px;
+    
+    }
+    .circle3 {
+        position: absolute;
+        width: 24px;
+height: 24px;
+top: 1350px;
+left: 603px;
+padding: 2px;
+gap: 0px;
+opacity: 0px;
+
+        }
+        .circle4 {
+            position: absolute;
+            width: 24px;
+            height: 24px;
+            top: 1487px;
+            left: 603px;
+            padding: 2px;
+            gap: 0px;
+            opacity: 0px;
+            
+            }
+            .circle5 {
+                position: absolute;
+                width: 24px;
+                height: 24px;
+                top: 1350px;
+                left: 993px;
+                padding: 2px;
+                gap: 0px;
+                opacity: 0px;
+                
+                }
+
+                .prof1 {
+position: absolute;
+width: 230px;
+height: 44px;
+top: 1350px;
+left: 263px;
+gap: 0px;
+opacity: 0px;
+font-family: adineue PRO Cyr;
+font-size: 18px;
+font-weight: 300;
+line-height: 21.6px;
+letter-spacing: 0.03em;
+text-align: left;
+width: 230px;
+height: 44px;
+top: 1350px;
+left: 263px;
+gap: 0px;
+opacity: 0px;
+color: white;
+                }
+                .prof2 {
+                    position: absolute;
+                    font-family: adineue PRO Cyr;
+                    color: white;
+font-size: 18px;
+font-weight: 300;
+line-height: 21.6px;
+letter-spacing: 0.03em;
+text-align: left;
+width: 230px;
+height: 22px;
+top: 1488px;
+left: 263px;
+gap: 0px;
+opacity: 0px;
+
+                                    }
+                                    .prof3 {
+                                        position: absolute;
+                                        font-family: adineue PRO Cyr;
+                                        color: white;
+font-size: 18px;
+font-weight: 300;
+line-height: 21.6px;
+letter-spacing: 0.03em;
+text-align: left;
+width: 230px;
+height: 44px;
+top: 1350px;
+left: 1043px;
+gap: 0px;
+opacity: 0px;
+
+
+                                                        }
+                                                        .prof4 {
+                                                            position: absolute;
+                                                            font-family: adineue PRO Cyr;
+                                                            color: white;
+font-size: 18px;
+font-weight: 300;
+line-height: 21.6px;
+letter-spacing: 0.03em;
+text-align: left;
+width: 230px;
+height: 44px;
+top: 1350px;
+left: 653px;
+gap: 0px;
+opacity: 0px;
+
+
+                                                            
+                                                                            }
+                                                                            .prof5 {
+                                                                                position: absolute;
+                                                                                font-family: adineue PRO Cyr;
+                                                                                color: white;
+font-size: 18px;
+font-weight: 300;      
+line-height: 21.6px;
+letter-spacing: 0.03em;
+text-align: left;
+width: 230px;
+height: 44px;
+top: 1488px;
+left: 653px;
+gap: 0px;
+opacity: 0px;
+
+
+                                                                                                }
+        
+               
+.biton {
+    position: absolute;
+    width: 169px;
+height: 36px;
+top: 1527px;
+left: 1094px;
+gap: 0px;
+border-radius: 18px 0px 0px 0px;
+opacity: 0px;
+
+}
+
+.grop {
+    position: absolute;
+    width: 270px;
+height: 26px;
+top: 1487px;
+left: 993px;
+gap: 0px;
+opacity: 0px;
+
+}
+.minipod1 {
+    position: absolute;
+    width: 26.43px;
+height: 31.16px;
+top: 1407px;
+left: 471.99px;
+
+
+}
+.minipod2 {
+    position: absolute;
+    width: 47.34px;
+    height: 55.81px;
+    top: 1434.08px;
+    left: 408px;
+    gap: 0px;
+    opacity: 0px;
+   
+    
+   
+
+
+}
+
+.minipod3 {
+    position: absolute;
+   
+width: 67.46px;
+height: 79.53px;
+top: 1468px;
+left: 461.58px;
+gap: 0px;
+opacity: 0px;
+}
+
+.dfis {
+   position: absolute;
+   z-index: -70;
+    width: 1536px;
+height: 515px;
+top: 1336px;
+justify-content: center;
+align-items: center;
+display: flex;
+}
+
+.mouse {
+    width: 159px;
+height: 46px;
+top: 1675px;
+left: 688px;
+position: absolute;
+
+}
+.bro8{
+    width: 153px;
+    height: 308px;
+    top: 2139px;
+   right: 0;
+ position: absolute;
+}
+
+.bro7 {
+    width: 153px;
+height: 308px;
+top: 2139px;
+left: 0;
+
+    position: absolute;
+}
+
+.bro9 {
+    position: absolute;
+    width: 307px;
+    height: 308px;
+    top: 2139px;
+    left: 154px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    
+}
+.bro10 {
+    position: absolute;
+    width: 307px;
+    height: 308px;
+    top: 2139px;
+    left: 461px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    
+}
+.bro11 {
+    position: absolute;
+    width: 307px;
+    height: 308px;
+    top: 2139px;
+    left: 768px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    
+}
+.bro12 {
+    position: absolute;
+    width: 307px;
+    height: 308px;
+    top: 2139px;
+    left: 1076px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    
+}
+
+.bro {
+    position: absolute ;
+    width: 307px;
+height: 308px;
+
+
+}
+
+.eew {
+    width: 307px;
+    height: 308px;
+    top: 1831px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    left: 0;
+    position: absolute;
+
+}
+.sonic {
+    width: 307px;
+height: 308px;
+top: 1831px;
+left: 307px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+position: absolute;
+}
+.sonic1 {
+    width: 308px;
+height: 308px;
+top: 1831px;
+left: 614px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.sonic2 {
+    position: absolute;
+    width: 307px;
+height: 308px;
+top: 1831px;
+left: 922px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+
+}
+.sonic3 {
+    position: absolute;
+    width: 307px;
+height: 308px;
+top: 1831px;
+left: 1229px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+
+}
+.miu1 {
+position: absolute;
+left: 10px;
+align-items: center;
+justify-content: center;
+display: flex;
+
+}
+.miu2 {
+position: absolute;
+right: 30px;
+align-items: center;
+justify-content: center;
+display: flex;
+
+}
+
+.azw {
+    position: absolute;
+    background-color: rgb(0, 0, 0);
+    height: 6dvb;
+    width: 100%;
+    bottom: -1800px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
